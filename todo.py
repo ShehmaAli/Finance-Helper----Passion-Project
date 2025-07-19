@@ -21,6 +21,3 @@ and they would need to buy something specific for themselves
 ✨ 70/20/10 rule
 ✨ 30/40/30 rule
 """
-# input
-name = input("Hi, What is your name? ")
-User_Money = input(f"{name} can you enter the exact number of the allowance you have this month (with your currency symbol): ")
