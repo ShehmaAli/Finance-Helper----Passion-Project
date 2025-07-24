@@ -17,6 +17,7 @@ and they would need to buy something specific for themselves
 🔴This must be made this year
 ⚫could be deployed (or not)
 
+SAVING RULES
 ✨ 50/30/20 rule
 ✨ 70/20/10 rule
 ✨ 30/40/30 rule
